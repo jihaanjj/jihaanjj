@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi!, i'm jihaan
+a computer science student from university of sriwijaya. Have an interest in Mobile Development using Android and Flutter. Have skills in Human Resource and Project Management such as managing an organization, organizing an event, leading a small-scale project.
+
+🌱 I’m currently learning Android development and UI/UX
+📫 How to reach me: jihaanjasminejahroo@gmail.com
+⚡ Fun fact: an ambivert
 
 <!--
 **JejeTrue/JejeTrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
