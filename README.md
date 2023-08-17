@@ -6,10 +6,16 @@ a computer science student from university of sriwijaya. Have an interest in Mob
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: an ambivert
 
+<p align="left">
+<a href="https://github.com/JejeTrue">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JejeTrue&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JejeTrue&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **JejeTrue/JejeTrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/anuraghazra/github-readme-stats
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
