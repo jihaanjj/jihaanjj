@@ -1,7 +1,7 @@
 ### Hi!, i'm jihaan
 a computer science student from university of sriwijaya. Have an interest in Mobile Development using Android and Flutter. Have skills in Human Resource and Project Management such as managing an organization, organizing an event, leading a small-scale project.
 
-- 🌱 I’m currently learning Android development and UI/UX
+- 🌱 I’m currently learning Android development, UI/UX, Web Development, Project Management
 - 📫 How to reach me: jihaanjasminejahroo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: an ambivert
