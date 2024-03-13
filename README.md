@@ -1,5 +1,5 @@
 ### Hi!, i'm jihaan
-a computer science student from university of sriwijaya. Have an interest in Android Development, Web development, UX, Product management. Have skills in Human Resource and Project Management such as managing an organization, organizing an event, leading a small-scale project.
+a computer science student from university of sriwijaya. Have an interest in Android Development, Web development, UX research, Product & Project management. Have skills in Human Resource and Project Management such as managing an organization, organizing an event, leading a small-scale project.
 
 - 🌱 I’m currently learning Android development, Web Development, Product Management
 - 📫 How to reach me: jihaanjasminejahroo@gmail.com
