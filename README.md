@@ -1,11 +1,10 @@
 <div align="center">
     <h1>Hi 👋, I'm Jihaan</h1>
-    <h3>A Project Manager who will never let go of coding</h3>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JejeTruek&label=Profile%20views&color=ff69b4&style=flat" alt="" /> </p>
 
-- 🌱 I’m currently learning **Frontend Web Development, Flutter, Project Management**
+- 🌱 I’m currently learning **Frontend Web Development, Flutter, Product Management**
 
 - 📫 How to reach me **jejedanjihaan@gmail.com** or **jihaanjasminejahroo@gmail.com**
 
