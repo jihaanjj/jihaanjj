@@ -2,7 +2,7 @@
     <h1>Hi 👋, I'm Jihaan</h1>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JejeTruek&label=Profile%20views&color=ff69b4&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihaanjjk&label=Profile%20views&color=ff69b4&style=flat" alt="" /> </p>
 
 - 📫 How to reach me **jihaanjasminejahroo@gmail.com**
 
@@ -13,9 +13,9 @@
 
 
 <p align="left">
-<a href="https://github.com/JejeTrue">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JejeTrue&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JejeTrue&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/jihaanjj">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jihaanjj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jihaanjj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
